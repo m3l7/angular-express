@@ -17,6 +17,7 @@ Start the server:
 
 - grunt server
 
+As usual, you can use yo to add new angular views,controllers etc.
 
 If you want live coding support, install the proper browser extension 
 (see http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions- )
